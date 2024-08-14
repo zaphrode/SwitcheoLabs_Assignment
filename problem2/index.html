@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Swap Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="swap-container">
+        <img src="https://avatars.githubusercontent.com/u/45809277?s=200&v=4" alt="Switcheo Logo" class="logo">
+        <h1>Switcheo Currency Swap</h1>
+        <form id="swap-form">
+            <div class="input-group">
+                <label for="from-token">From:</label>
+                <input type="number" id="from-amount" placeholder="Amount" min="0">
+                <div class="custom-select" id="from-token-select">
+                    <div class="selected-option" id="from-selected-option">Select a token</div>
+                    <div class="dropdown-options" id="from-token-options">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="input-group">
+                <label for="to-token">To:</label>
+                <input type="number" id="to-amount" placeholder="Amount" disabled>
+                <div class="custom-select" id="to-token-select">
+                    <div class="selected-option" id="to-selected-option">Select a token</div>
+                    <div class="dropdown-options" id="to-token-options">
+                    </div>
+                </div>
+            </div>
+            
+            <button type="button" id="swap-button">Swap</button>
+            <p id="error-message"></p>
+        </form>
+    </div>
+    <script src="Qn2.js"></script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+{
+    "BLUR": {
+        "price": 0.20811525423728813,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/BLUR.svg"
+    },
+    "bNEO": {
+        "price": 7.1282679,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/NEO.svg"
+    },
+    "BUSD": {
+        "price": 0.9998782611186441,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/BUSD.svg"
+    },
+    "USD": {
+        "price": 1,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/USD.svg"
+    },
+    "ETH": {
+        "price": 1645.9337373737374,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ETH.svg"
+    },
+    "GMX": {
+        "price": 36.345114372881355,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/GMX.svg"
+    },
+    "STEVMOS": {
+        "price": 0.07276706779661017,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/STEVMOS.svg"
+    },
+    "LUNA": {
+        "price": 0.40955638983050846,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/LUNA.svg"
+    },
+    "RATOM": {
+        "price": 10.250918915254237,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/RATOM.svg"
+    },
+    "STRD": {
+        "price": 0.7386553389830508,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/STRD.svg"
+    },
+    "EVMOS": {
+        "price": 0.06246181355932203,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/EVMOS.svg"
+    },
+    "IBCX": {
+        "price": 41.26811355932203,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/IBCX.svg"
+    },
+    "IRIS": {
+        "price": 0.0177095593220339,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/IRIS.svg"
+    },
+    "ampLUNA": {
+        "price": 0.49548589830508477,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ampLUNA.svg"
+    },
+    "KUJI": {
+        "price": 0.675,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/KUJI.svg"
+    },
+    "STOSMO": {
+        "price": 0.431318,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/STOSMO.svg"
+    },
+    "USDC": {
+        "price": 0.9998782611186441,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/USDC.svg"
+    },
+    "axlUSDC": {
+        "price": 0.989832,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/axlUSDC.svg"
+    },
+    "ATOM": {
+        "price": 7.186657333333334,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ATOM.svg"
+    },
+    "STATOM": {
+        "price": 8.512162050847458,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/STATOM.svg"
+    },
+    "OSMO": {
+        "price": 0.3772974333333333,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/OSMO.svg"
+    },
+    "rSWTH": {
+        "price": 0.00408771,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/rSWTH.svg"
+    },
+    "STLUNA": {
+        "price": 0.44232210169491526,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/STLUNA.svg"
+    },
+    "LSI": {
+        "price": 67.69661525423729,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/LSI.svg"
+    },
+    "OKB": {
+        "price": 42.97562059322034,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/OKB.svg"
+    },
+    "OKT": {
+        "price": 13.561577966101694,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/OKT.svg"
+    },
+    "SWTH": {
+        "price": 0.004039850455012084,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/SWTH.svg"
+    },
+    "USC": {
+        "price": 0.994,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/USC.svg"
+    },
+    "WBTC": {
+        "price": 26002.82202020202,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/WBTC.svg"
+    },
+    "wstETH": {
+        "price": 1872.2579742372882,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/wstETH.svg"
+    },
+    "YieldUSD": {
+        "price": 1.0290847966101695,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/YieldUSD.svg"
+    },
+    "ZIL": {
+        "price": 0.01651813559322034,
+        "logo": "https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/ZIL.svg"
+    }
+  }
+  
